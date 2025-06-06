@@ -66,7 +66,7 @@ Displays the current situation, printing what items are on each side of the rive
 
 ---
 
-### Understanding `enumerate`
+## Understanding `enumerate`
 
 The Python built-in function `enumerate` is used to loop over a list **while keeping track of both the index and the value** of each item.
 
